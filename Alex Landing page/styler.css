@@ -28,9 +28,9 @@ i{
     color: orange;
 }
 
-.img{
+.img1{
     width: 100%;
-    position: absolute;
+    position: relative;
     margin: 0;
     height: 100%;
 }
